@@ -1,0 +1,38 @@
+Task ID,Client ID,Task Name,Time taken(hours),Cost($),Project Lead,Location,category,Task Created,Revenue($)
+1925574,210000,Analysis,14,400,Sam,Nepal,Cybersecurity,10/1/2015 0:24,512
+1925617,210000,Questionnaire,17,400,Lauren,USA,General,10/1/2015 0:26,314
+943600,11272000,Questionnaire,17,260,Sumesh,UK,General,8/25/2015 21:02,290
+1064405,210000,Review- Level 1,61,356,Rajiv,Nepal,Network Communication,8/30/2015 20:16,89
+20046620,760000,Questionnaire,16,444,Dipak,Nepal,Password,5/9/2016 1:14,90
+20047128,760000,Review- Level 1,44,900,Sunita,UK,General,5/9/2016 1:18,35
+78419076,210000,Questionnaire,55,567,Sam,UK,General,10/20/2016 11:17,143.6
+252736983,11272000,Analysis,70,78,Sumesh,USA,Password,5/9/2017 18:33,28.72
+793229430,49082000,Analysis,23,90,Rajiv,UK,Password,12/28/2017 19:55,112
+809446063,210000,Analysis,19,190,Dipak,UK,Password,1/5/2018 16:08,199
+809446145,210000,Questionnaire,17,89,Sunita,UK,General,1/5/2018 16:08,324
+809427287,210000,Analysis,21,575,Priya,Nepal,Network Communication,1/5/2018 16:02,277
+809427305,49082000,Questionnaire,56,980,Rajiv,Nepal,Network Communication,1/5/2018 16:02,310
+793240796,53609000,Questionnaire,14,7.69,Dipak,Nepal,Password,12/28/2017 20:00,167
+809446084,49082000,Questionnaire,85,8.32,Reecha,Nepal,Password,1/5/2018 16:08,100
+809364705,49082000,Analysis,34,14.97,Dipak,UK,General,1/5/2018 15:42,178
+809408225,49082000,Questionnaire,14,12.99,Ajit,Nepal,General,1/5/2018 15:56,234
+809446215,210000,Questionnaire,14,8.29,Dipak,Nepal,Password,1/5/2018 16:08,124
+809446365,49082000,Questionnaire,98,8.36,Rajiv,Nepal,Password,1/5/2018 16:08,210
+1549975,225000,Questionnaire,89,15,Ajit,Nepal,Password,9/17/2015 19:09,100
+1578584,49082000,Questionnaire,67,13.9,Dipak,USA,Cybersecurity,9/18/2015 18:57,760
+1166505,582000,Questionnaire,82,30,Mike,Romani,Cybersecurity,9/4/2015 0:25,100
+1166561,582000,Review- Level 1,123,40,Reecha,USA,Password,9/4/2015 0:28,123
+868293551,760000,Questionnaire,67,158,Mark,Romania,Network Communication,1/26/2018 14:51,456
+868298757,53609000,Questionnaire,75,158,Lauren,USA,Cybersecurity,1/26/2018 14:53,321
+868417234,760000,Questionnaire,31,218,Mark,Romania,Network Communication,1/26/2018 15:30,222
+868421248,53609000,Review- Level 1,123,218,Mark,Romania,Network Communication,1/26/2018 15:31,138
+864678643,582000,Review- Level 1,33,118,Sam,Romania,Cybersecurity,1/25/2018 13:29,100
+864801685,53609000,Review- Level 1,140,118,Ajit,USA,Password,1/25/2018 14:11,345
+864812407,582000,Review- Level 1,92,118,Ajit,USA,Password,1/25/2018 14:15,540
+874063253,53609000,Questionnaire,99,218,Dipak,USA,Cybersecurity,1/28/2018 14:07,152
+874066799,53609000,Review- Level 1,56,218,Sumesh,USA,Password,1/28/2018 14:08,106
+868264273,582000,Analysis,54,128,Reecha,Nepal,Cybersecurity,1/26/2018 14:41,136
+868270887,582000,Review- Level 1,87,118,Dipak,Nepal,Cybersecurity,1/26/2018 14:43,145
+868606162,53609000,Review- Level 1,34,218,Reecha,USA,Password,1/26/2018 16:29,202
+868609496,53609000,Analysis,29,218,Dipak,USA,Cybersecurity,1/26/2018 16:30,159
+868520543,582000,Review- Level 1,81,228,Ajit,UK,Cybersecurity,1/26/2018 16:02,210
